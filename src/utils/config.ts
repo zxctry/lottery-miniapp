@@ -1,6 +1,6 @@
 // 云开发环境配置
 // 在微信开发者工具中开通云开发后，填入你的环境ID
-export const CLOUD_ENV = 'your-env-id'
+export const CLOUD_ENV = 'cloudbase-2gucprzrd5564bca'
 
 // 云数据库集合名
 export const COLLECTIONS = {
